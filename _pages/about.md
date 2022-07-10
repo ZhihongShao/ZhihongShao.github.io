@@ -8,14 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I’m a third-year Ph.D. student in [Conversational AI Group (CoAI)](http://coai.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University.
-I am fortunate to be advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml).
+I’m a third-year Ph.D. student in [Conversational AI Group](http://coai.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University.
+I'm fortunate to be advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml).
 <!-- Prior to joining CoAI, I received B.E. in Computer Science and Technology from Beihang University. -->
 
-My interests are in natural language processing and deep learning. I am particularly interested in how we can build a robust and scalable AI system that can leverage diverse skills (e.g., retrieval, logical reasoning, and numerical reasoning) to aggregate possibly-heterogeneous information and answer natural language questions precisely regardless of their complexity.
-
-My recent work focused on
-+ Comprehensive exploitation of a large-scale corpus for multi-answer question answering ([RECTIFY](https://arxiv.org/abs/2110.08544))
+My interests are in natural language processing and deep learning. I am particularly interested in how we can build a robust and scalable AI system that can leverage diverse skills (e.g., retrieval, logical reasoning, and numerical reasoning) to aggregate possibly-heterogeneous information and answer natural language questions precisely regardless of their complexity. My recent work has focused on
++ Comprehensive exploitation of a large-scale corpus for multi-answer QA ([RECTIFY](https://arxiv.org/abs/2110.08544))
 + Neuro-symbolic approaches for complex discrete reasoning ([MIMAX](https://arxiv.org/abs/2106.07174))
 + Robust classification and text matching (e.g., paraphrase detection and natural language inference) ([AdvExpander](https://ieeexplore.ieee.org/document/9622188))
 
@@ -51,7 +49,7 @@ Publications
 
 **Preprints**
 
-+ Fei Huang, Dazhen Wan, \textbf{Zhihong Shao}, Pei Ke, Jian Guan, Yilin Niu, Xiaoyan Zhu, and Minlie Huang\
++ Fei Huang, Dazhen Wan, **Zhihong Shao**, Pei Ke, Jian Guan, Yilin Niu, Xiaoyan Zhu, and Minlie Huang\
   **CoTK: An Open-Source Toolkit for Fast Development and Fair Evaluation of Text Generation**\
   Arxiv abs/2002.00583, 2020.\
   [[Paper]](https://arxiv.org/abs/2002.00583)/[[Code]](https://github.com/thu-coai/cotk)
@@ -60,7 +58,7 @@ Selected Honors and Awards
 ======
 
 + 2nd Prize, Comprehensive Scholarship, Tsinghua University, 2021
-+ 3rd Prize, the National Final of "LAN QIAO CUP" Individual Undergraduate C/C++ Group, 2018
++ 3rd Prize, the National Final of "LAN QIAO CUP" C/C++ Group, 2018
 + China National Scholarship 2017
 + 1st Prize, National College Students Mathematics Competition (non-math-major), 2016
 + China National Scholarship, 2016
