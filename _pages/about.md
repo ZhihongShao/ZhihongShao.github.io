@@ -47,7 +47,8 @@ Publications
   Empirical Methods in Natural Language Processing (EMNLP), 2019.\
   [[Paper]](https://arxiv.org/abs/1908.06605)/[[Code]](https://github.com/ZhihongShao/Planning-based-Hierarchical-Variational-Model)
 
-**Preprints**
+Preprints
+======
 
 + Fei Huang, Dazhen Wan, **Zhihong Shao**, Pei Ke, Jian Guan, Yilin Niu, Xiaoyan Zhu, and Minlie Huang\
   **CoTK: An Open-Source Toolkit for Fast Development and Fair Evaluation of Text Generation**\
