@@ -14,7 +14,7 @@ I'm fortunate to be advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.
 
 My interests are in natural language processing and deep learning. I am particularly interested in how we can build a robust and scalable AI system that can leverage diverse skills (e.g., retrieval, logical reasoning, and numerical reasoning) to aggregate possibly-heterogeneous information and answer natural language questions precisely regardless of their complexity. My recent work has focused on
 + Comprehensive exploitation of a large-scale corpus for multi-answer QA ([RECTIFY](https://arxiv.org/abs/2110.08544))
-+ Neuro-symbolic approaches for complex discrete reasoning ([MIMAX](https://arxiv.org/abs/2106.07174))
++ Neuro-symbolic approaches for complex discrete reasoning (CANTOR & [MIMAX](https://arxiv.org/abs/2106.07174))
 + Robust classification and text matching (e.g., paraphrase detection and natural language inference) ([AdvExpander](https://ieeexplore.ieee.org/document/9622188))
 
 <!-- Education
@@ -25,6 +25,10 @@ My interests are in natural language processing and deep learning. I am particul
 
 Publications
 ======
+
++ **Zhihong Shao**, Fei Huang, Minlie Huang\
+  **Chaining Simultaneous Thoughts for Numerical Reasoning**\
+  Findings of Empirical Methods in Natural Language Processing (Findings of EMNLP), 2022.
 
 + **Zhihong Shao**, Minlie Huang\
   **Answering Open-Domain Multi-Answer Questions via a Recall-then-Verify Framework**\
