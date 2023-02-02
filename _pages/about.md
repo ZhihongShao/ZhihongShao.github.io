@@ -55,6 +55,11 @@ Publications
 Preprints
 ======
 
++ **Zhihong Shao**, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, and Weizhu Chen\
+  **Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models**\
+  Arxiv abs/2302.00618, 2023.\
+  [[Paper]](https://arxiv.org/abs/2302.00618)
+
 + Fei Huang, Dazhen Wan, **Zhihong Shao**, Pei Ke, Jian Guan, Yilin Niu, Xiaoyan Zhu, and Minlie Huang\
   **CoTK: An Open-Source Toolkit for Fast Development and Fair Evaluation of Text Generation**\
   Arxiv abs/2002.00583, 2020.\
