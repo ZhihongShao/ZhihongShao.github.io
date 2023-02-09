@@ -68,6 +68,7 @@ Preprints
 Selected Honors and Awards
 ======
 
++ 1nd Prize, Comprehensive Scholarship, Tsinghua University, 2022
 + 2nd Prize, Comprehensive Scholarship, Tsinghua University, 2021
 + 3rd Prize, the National Final of "LAN QIAO CUP" C/C++ Group, 2018
 + China National Scholarship 2017
@@ -84,5 +85,5 @@ Teaching
 
 I was a TA for the following undergraduate courses:
 
-+ Artificial Neural Network (2019 Fall, 2020 Fall, 2021 Fall)
++ Artificial Neural Network (2019 Fall, 2020 Fall, 2021 Fall, 2022 Fall)
 + Object-Oriented Programming (2020 Spring, 2021 Spring, 2022 Spring)
