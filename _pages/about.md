@@ -60,6 +60,11 @@ Publications
 Preprints
 ======
 
++ Zhibin Gou, **Zhihong Shao**, Yeyun Gong, Yelong Shen, Yujiu Yang, Nan Duan, and Weizhu Chen\
+  **CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing**\
+  Arxiv abs/2023.11738, 2023.\
+  [[paper]](https://arxiv.org/abs/2305.11738)/[[code]](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)
+
 + Fei Huang, Dazhen Wan, **Zhihong Shao**, Pei Ke, Jian Guan, Yilin Niu, Xiaoyan Zhu, and Minlie Huang\
   **CoTK: An Open-Source Toolkit for Fast Development and Fair Evaluation of Text Generation**\
   Arxiv abs/2002.00583, 2020.\
