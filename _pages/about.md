@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I’m a fourth-year Ph.D. student in [Conversational AI Group](http://coai.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University.
+I’m a final-year Ph.D. student in [Conversational AI Group](http://coai.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University.
 I'm fortunate to be advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml).
 <!-- Prior to joining CoAI, I received B.E. in Computer Science and Technology from Beihang University. -->
 
 My interests are in natural language processing and deep learning. I am particularly interested in how we can build a robust and scalable AI system that can leverage diverse skills (e.g., tool use and reasoning) to aggregate possibly-heterogeneous information and answer natural language questions precisely regardless of their complexity. My recent work has focused on
 + Knowledge-grounded reasoning ([Iter-RetGen](https://arxiv.org/abs/2305.15294) & [RECTIFY](https://arxiv.org/abs/2110.08544))
-+ Tool-augmented reasoning ([Synthetic Prompting](https://arxiv.org/abs/2302.00618), [Critic](https://arxiv.org/abs/2305.11738), [CANTOR](https://arxiv.org/abs/2211.16482) & [MIMAX](https://arxiv.org/abs/2106.07174))
++ Tool-augmented reasoning ([Synthetic Prompting](https://arxiv.org/abs/2302.00618), [ToRA](https://arxiv.org/abs/2309.17452), [Critic](https://arxiv.org/abs/2305.11738), [CANTOR](https://arxiv.org/abs/2211.16482) & [MIMAX](https://arxiv.org/abs/2106.07174))
 + Robust classification and text matching (e.g., paraphrase detection and natural language inference) ([AdvExpander](https://ieeexplore.ieee.org/document/9622188))
 
 <!-- Education
@@ -59,6 +59,12 @@ Publications
 
 Preprints
 ======
+
++ **Zhihong Shao\***, **Zhibin Gou\***, Yeyun Gong, Yelong Shen, Yujiu Yang, Minlie Huang, Nan Duan, and Weizhu Chen\
+  **ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving**\
+  Arxiv abs/2309.17452 2023.\
+  [[Paper]](https://arxiv.org/abs/2309.17452)/[[Code]](https://github.com/microsoft/tora)\
+  (ToRA-34B is the first open-source model that attains an accuracy over 50% on the competition-level MATH dataset)
 
 + **Zhihong Shao**, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, and Weizhu Chen\
   **Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy**\
