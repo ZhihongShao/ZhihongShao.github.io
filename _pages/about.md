@@ -27,6 +27,11 @@ Publications
 ======
 
 + **Zhihong Shao**, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, and Weizhu Chen\
+  **Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy**\
+  Findings of Empirical Methods in Natural Language Processing (Findings of EMNLP), 2023.\
+  [[Paper]](https://arxiv.org/abs/2305.15294)
+
++ **Zhihong Shao**, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, and Weizhu Chen\
   **Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models**\
   International Conference on Machine Learning (ICML), 2023.\
   [[Paper]](https://arxiv.org/abs/2302.00618)
@@ -65,11 +70,6 @@ Preprints
   Arxiv abs/2309.17452 2023.\
   [[Paper]](https://arxiv.org/abs/2309.17452)/[[Code]](https://github.com/microsoft/tora)\
   (ToRA-34B is the first open-source model that attains an accuracy over 50% on the competition-level MATH dataset)
-
-+ **Zhihong Shao**, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, and Weizhu Chen\
-  **Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy**\
-  Arxiv abs/2023.15294 2023.\
-  [[Paper]](https://arxiv.org/abs/2305.15294)
 
 + Zhibin Gou, **Zhihong Shao**, Yeyun Gong, Yelong Shen, Yujiu Yang, Nan Duan, and Weizhu Chen\
   **CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing**\
