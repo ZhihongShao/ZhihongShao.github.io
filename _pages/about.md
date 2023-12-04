@@ -22,9 +22,9 @@ My interests are in natural language processing and deep learning. I am particul
 Research Highlights
 ======
 Tool-Augmented Large Language Models
-+ Optimize LLM-Tool Interaction and Adapt Tools for LLMs based on the Interaction Data: [Iter-RetGen](https://arxiv.org/abs/2305.15294) with generation-augmented retrieval and generation-augmented retrieval adaptation;
-+ Train LLMs to Integrate Tool Use into Generation: [ToRA](https://arxiv.org/abs/2309.17452) (ToRA-34B is the first open-source LLM scoring over 50% on the competition-level MATH dataset);
-+ Inference-Time Optimization: (i) Prompt Optimization: [Synthetic Prompting](https://arxiv.org/abs/2302.00618) for automatically synthesizing high-quality CoT demonstrations; (ii) Self-Correction based on Feedback from Tools: [Critic](https://arxiv.org/abs/2305.11738) (Basically the first paper to show that current LLMs struggle with intrinsic self-correction and propose tool-aided correction for more stable improvements).
++ **Optimize LLM-Tool Interaction and Adapt Tools for LLMs based on the Interaction Data:** [Iter-RetGen](https://arxiv.org/abs/2305.15294) with generation-augmented retrieval and generation-augmented retrieval adaptation;
++ **Train LLMs to Integrate Tool Use into Generation:** [ToRA](https://arxiv.org/abs/2309.17452) (ToRA-34B is the first open-source LLM scoring over 50% on the competition-level MATH dataset);
++ **Inference-Time Optimization:** (i) Prompt Optimization: [Synthetic Prompting](https://arxiv.org/abs/2302.00618) for automatically synthesizing high-quality CoT demonstrations; (ii) Self-Correction based on Feedback from Tools: [Critic](https://arxiv.org/abs/2305.11738) (Basically the first paper to show that current LLMs struggle with intrinsic self-correction and propose tool-aided correction for more stable improvements).
 
 <!-- Education
 ======
