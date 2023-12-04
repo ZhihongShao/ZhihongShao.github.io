@@ -12,10 +12,19 @@ I’m a final-year Ph.D. student in [Conversational AI Group](http://coai.cs.tsi
 I'm fortunate to be advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml).
 <!-- Prior to joining CoAI, I received B.E. in Computer Science and Technology from Beihang University. -->
 
-My interests are in natural language processing and deep learning. I am particularly interested in how we can build a robust and scalable AI system that can leverage diverse skills (e.g., tool use and reasoning) to aggregate possibly-heterogeneous information and answer natural language questions precisely regardless of their complexity. My recent work has focused on
+My interests are in natural language processing and deep learning. I am particularly interested in how we can build a robust and scalable AI system that can leverage diverse skills (e.g., tool use and reasoning) to aggregate possibly-heterogeneous information and answer natural language questions precisely regardless of their complexity.
+
+<!-- My recent work has focused on
 + Knowledge-grounded reasoning ([Iter-RetGen](https://arxiv.org/abs/2305.15294) & [RECTIFY](https://arxiv.org/abs/2110.08544))
 + Tool-augmented reasoning ([Synthetic Prompting](https://arxiv.org/abs/2302.00618), [ToRA](https://arxiv.org/abs/2309.17452), [Critic](https://arxiv.org/abs/2305.11738), [CANTOR](https://arxiv.org/abs/2211.16482) & [MIMAX](https://arxiv.org/abs/2106.07174))
-+ Robust classification and text matching (e.g., paraphrase detection and natural language inference) ([AdvExpander](https://ieeexplore.ieee.org/document/9622188))
++ Robust classification and text matching (e.g., paraphrase detection and natural language inference) ([AdvExpander](https://ieeexplore.ieee.org/document/9622188)) -->
+
+Research Highlights
+======
+Tool-Augmented Large Language Models
++ Optimize LLM-Tool Interaction and Adapt Tools for LLMs based on the Interaction Data: [Iter-RetGen](https://arxiv.org/abs/2305.15294) with generation-augmented retrieval and generation-augmented retrieval adaptation;
++ Train LLMs to Integrate Tool Use into Generation: [ToRA](https://arxiv.org/abs/2309.17452) (ToRA-34B is the first open-source LLM scoring over 50% on the competition-level MATH dataset);
++ Inference-Time Optimization: (i) Prompt Optimization: [Synthetic Prompting](https://arxiv.org/abs/2302.00618) for automatically synthesizing high-quality CoT demonstrations; (ii) Self-Correction based on Feedback from Tools: [Critic](https://arxiv.org/abs/2305.11738) (Basically the first paper to show that current LLMs struggle with intrinsic self-correction and propose tool-aided correction for more stable improvements).
 
 <!-- Education
 ======
@@ -30,6 +39,11 @@ Publications
   **Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy**\
   Findings of Empirical Methods in Natural Language Processing (Findings of EMNLP), 2023.\
   [[Paper]](https://arxiv.org/abs/2305.15294)
+
++ Zhibin Gou, **Zhihong Shao**, Yeyun Gong, Yelong Shen, Yujiu Yang, Nan Duan, and Weizhu Chen\
+  **CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing**\
+  Neural Information Processing Systems, Workshop on Agent Learning in Open-Endedness (NeurIPS ALOE Workshop), 2023.\
+  [[paper]](https://arxiv.org/abs/2305.11738)/[[code]](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)
 
 + **Zhihong Shao**, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, and Weizhu Chen\
   **Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models**\
@@ -70,11 +84,6 @@ Preprints
   Arxiv abs/2309.17452 2023.\
   [[Paper]](https://arxiv.org/abs/2309.17452)/[[Code]](https://github.com/microsoft/tora)\
   (ToRA-34B is the first open-source model that attains an accuracy over 50% on the competition-level MATH dataset)
-
-+ Zhibin Gou, **Zhihong Shao**, Yeyun Gong, Yelong Shen, Yujiu Yang, Nan Duan, and Weizhu Chen\
-  **CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing**\
-  Arxiv abs/2023.11738, 2023.\
-  [[paper]](https://arxiv.org/abs/2305.11738)/[[code]](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)
 
 + Fei Huang, Dazhen Wan, **Zhihong Shao**, Pei Ke, Jian Guan, Yilin Niu, Xiaoyan Zhu, and Minlie Huang\
   **CoTK: An Open-Source Toolkit for Fast Development and Fair Evaluation of Text Generation**\
