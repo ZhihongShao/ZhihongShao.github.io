@@ -35,6 +35,12 @@ Tool-Augmented Large Language Models
 Publications
 ======
 
++ **Zhihong Shao\***, **Zhibin Gou\***, Yeyun Gong, Yelong Shen, Yujiu Yang, Minlie Huang, Nan Duan, and Weizhu Chen\
+  **ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving**\
+  International Conference on Learning Representations (ICLR), 2024.\
+  [[Paper]](https://arxiv.org/abs/2309.17452)/[[Code]](https://github.com/microsoft/tora)\
+  (ToRA-34B is the first open-source model that attains an accuracy over 50% on the competition-level MATH dataset)
+
 + **Zhihong Shao**, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, and Weizhu Chen\
   **Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy**\
   Findings of Empirical Methods in Natural Language Processing (Findings of EMNLP), 2023.\
@@ -42,7 +48,7 @@ Publications
 
 + Zhibin Gou, **Zhihong Shao**, Yeyun Gong, Yelong Shen, Yujiu Yang, Nan Duan, and Weizhu Chen\
   **CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing**\
-  Neural Information Processing Systems, Workshop on Agent Learning in Open-Endedness (NeurIPS ALOE Workshop), 2023.\
+  International Conference on Learning Representations (ICLR), 2024.\
   [[paper]](https://arxiv.org/abs/2305.11738)/[[code]](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)
 
 + **Zhihong Shao**, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, and Weizhu Chen\
@@ -79,11 +85,10 @@ Publications
 Preprints
 ======
 
-+ **Zhihong Shao\***, **Zhibin Gou\***, Yeyun Gong, Yelong Shen, Yujiu Yang, Minlie Huang, Nan Duan, and Weizhu Chen\
-  **ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving**\
-  Arxiv abs/2309.17452 2023.\
-  [[Paper]](https://arxiv.org/abs/2309.17452)/[[Code]](https://github.com/microsoft/tora)\
-  (ToRA-34B is the first open-source model that attains an accuracy over 50% on the competition-level MATH dataset)
++ Peiyi Wang, Lei Li, **Zhihong Shao**, R.X. Xu, Damai Dai, Yifei Li, Deli Chen, Y.Wu, Zhifang Sui\
+  **Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations**\
+  Arxiv abs/2312.08935, 2023.\
+  [[paper]](https://arxiv.org/abs/2312.08935)
 
 + Fei Huang, Dazhen Wan, **Zhihong Shao**, Pei Ke, Jian Guan, Yilin Niu, Xiaoyan Zhu, and Minlie Huang\
   **CoTK: An Open-Source Toolkit for Fast Development and Fair Evaluation of Text Generation**\
@@ -93,6 +98,7 @@ Preprints
 Selected Honors and Awards
 ======
 
++ Lenovo Scholarship, Tsinghua University, 2023
 + 1nd Prize, Comprehensive Scholarship, Tsinghua University, 2022
 + 2nd Prize, Comprehensive Scholarship, Tsinghua University, 2021
 + 3rd Prize, the National Final of "LAN QIAO CUP" C/C++ Group, 2018
