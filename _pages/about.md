@@ -21,9 +21,10 @@ My interests are in natural language processing and deep learning. I am particul
 
 Research Highlights
 ======
-Tool-Augmented Large Language Models
+LLM Multi-Step Reasoning & Tool Augmentation
++ **Train LLMs to Integrate Tool Use into Generation:** [ToRA](https://arxiv.org/abs/2309.17452) (ToRA-34B is the first open-source TOOL-AUGMENTED LLM scoring over 50% on the competition-level MATH dataset);
++ **Improve Math Reasoning in LLMs via Math Training and RL:** [DeepSeekMath](https://arxiv.org/abs/2402.03300) (DeepSeekMath 7B is the first open-source LLM scoring over 50% WITHOUT RELYING ON TOOLS on the competition-level MATH dataset);
 + **Optimize LLM-Tool Interaction and Adapt Tools for LLMs based on the Interaction Data:** [Iter-RetGen](https://arxiv.org/abs/2305.15294) with generation-augmented retrieval and generation-augmented retrieval adaptation;
-+ **Train LLMs to Integrate Tool Use into Generation:** [ToRA](https://arxiv.org/abs/2309.17452) (ToRA-34B is the first open-source LLM scoring over 50% on the competition-level MATH dataset);
 + **Inference-Time Optimization:** (i) Prompt Optimization: [Synthetic Prompting](https://arxiv.org/abs/2302.00618) for automatically synthesizing high-quality CoT demonstrations; (ii) Self-Correction based on Feedback from Tools: [Critic](https://arxiv.org/abs/2305.11738) (Basically the first paper to show that current LLMs struggle with intrinsic self-correction and propose tool-aided correction for more stable improvements).
 
 <!-- Education
@@ -35,7 +36,7 @@ Tool-Augmented Large Language Models
 Publications
 ======
 
-+ **Zhihong Shao\***, **Zhibin Gou\***, Yeyun Gong, Yelong Shen, Yujiu Yang, Minlie Huang, Nan Duan, and Weizhu Chen\
++ **Zhihong Shao**, **Zhibin Gou**, Yeyun Gong, Yelong Shen, Yujiu Yang, Minlie Huang, Nan Duan, and Weizhu Chen\
   **ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving**\
   International Conference on Learning Representations (ICLR), 2024.\
   [[Paper]](https://arxiv.org/abs/2309.17452)/[[Code]](https://github.com/microsoft/tora)\
@@ -84,6 +85,16 @@ Publications
 
 Preprints
 ======
+
++ **Zhihong Shao**, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Mingchuan Zhang, Y.K. Li, Y. Wu, Daya Guo \
+  **DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models**\
+  Arxiv abs/2402.03300, 2024.\
+  [[paper]](https://arxiv.org/abs/2402.03300)/[[code]](https://github.com/deepseek-ai/DeepSeek-Math)
+
++ DeepSeek-AI \
+  **DeepSeek LLM: Scaling Open-Source Language Models with Longtermism**\
+  Arxiv abs/2401.02954, 2024.\
+  [[paper]](https://arxiv.org/abs/2401.02954)/[[code]](https://github.com/deepseek-ai/DeepSeek-LLM)
 
 + Peiyi Wang, Lei Li, **Zhihong Shao**, R.X. Xu, Damai Dai, Yifei Li, Deli Chen, Y.Wu, Zhifang Sui\
   **Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations**\
