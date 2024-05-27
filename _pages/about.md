@@ -22,10 +22,11 @@ My interests are in natural language processing and deep learning. I am particul
 Research Highlights
 ======
 LLM Multi-Step Reasoning & Tool Augmentation
-+ **Train LLMs to Integrate Tool Use into Generation:** [ToRA](https://arxiv.org/abs/2309.17452) (ToRA-34B is the first open-source TOOL-AUGMENTED LLM scoring over 50% on the competition-level MATH dataset);
-+ **Improve Math Reasoning in LLMs via Math Training and RL:** [DeepSeekMath](https://arxiv.org/abs/2402.03300) (DeepSeekMath 7B is the first open-source LLM scoring over 50% WITHOUT RELYING ON TOOLS on the competition-level MATH dataset);
-+ **Optimize LLM-Tool Interaction and Adapt Tools for LLMs based on the Interaction Data:** [Iter-RetGen](https://arxiv.org/abs/2305.15294) with generation-augmented retrieval and generation-augmented retrieval adaptation;
-+ **Inference-Time Optimization:** (i) Prompt Optimization: [Synthetic Prompting](https://arxiv.org/abs/2302.00618) for automatically synthesizing high-quality CoT demonstrations; (ii) Self-Correction based on Feedback from Tools: [Critic](https://arxiv.org/abs/2305.11738) (Basically the first paper to show that current LLMs struggle with intrinsic self-correction and propose tool-aided correction for more stable improvements).
++ **Improve Math Reasoning with Tool Integration:** [ToRA](https://arxiv.org/abs/2309.17452) (ToRA-34B is the first open-source TOOL-AUGMENTED LLM scoring over 50% on the competition-level MATH dataset);
++ **Improve Math Reasoning via Math Training and RL:** (i) Process-based Reward Model: [Math-Shepherd](https://arxiv.org/abs/2312.08935) for process supervision without human annotations; (ii) Math Training and RL: [DeepSeekMath](https://arxiv.org/abs/2402.03300) (DeepSeekMath 7B is the first open-source LLM scoring over 50% WITHOUT RELYING ON TOOLS on the competition-level MATH dataset);
++ **Improve Formal Math Reasoning with Synthetic Data:** [DeepSeek-Prover](https://arxiv.org/abs/2405.14333) trained on formal math data synthesized by iterating auto-formalization and proof search, which solves 50\% of problems from miniF2F-test.;
+<!-- + **Optimize LLM-Tool Interaction and Adapt Tools for LLMs based on the Interaction Data:** [Iter-RetGen](https://arxiv.org/abs/2305.15294) with generation-augmented retrieval and generation-augmented retrieval adaptation; -->
++ **Inference-Time Optimization:** (i) Prompt Optimization: [Synthetic Prompting](https://arxiv.org/abs/2302.00618) for automatically synthesizing high-quality CoT demonstrations; (ii) Self-Correction based on Feedback from Tools: [Critic](https://arxiv.org/abs/2305.11738) which shows that current LLMs struggle with intrinsic self-correction and propose tool-aided correction for more stable improvements.
 
 <!-- Education
 ======
@@ -35,6 +36,16 @@ LLM Multi-Step Reasoning & Tool Augmentation
 
 Publications
 ======
+
++ Peiyi Wang, Lei Li, **Zhihong Shao**, R.X. Xu, Damai Dai, Yifei Li, Deli Chen, Y.Wu, Zhifang Sui\
+  **Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations**\
+  The Annual Meeting of the Association for Computational Linguistics (ACL), 2024.\
+  [[paper]](https://arxiv.org/abs/2312.08935)
+
++ Jiaxin Wen, Ruiqi Zhong, Pei Ke, **Zhihong Shao**, Hongning Wang, Minlie Huang\
+  **Assisting Humans For Scalable Oversight by Learning Decomposition From Human Feedback: A Case Study in Competitive Programming**\
+  The Annual Meeting of the Association for Computational Linguistics (ACL), 2024.\
+  [[paper]](https://openreview.net/pdf?id=A2WwF6b7dW)
 
 + **Zhihong Shao**, **Zhibin Gou**, Yeyun Gong, Yelong Shen, Yujiu Yang, Minlie Huang, Nan Duan, and Weizhu Chen\
   **ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving**\
@@ -86,6 +97,16 @@ Publications
 Preprints
 ======
 
++ Huajian Xin, Daya Guo, **Zhihong Shao**, Zhizhou Ren, Qihao Zhu, Bo Liu, Chong Ruan, Wenda Li, Xiaodan Liang \
+  **DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data**\
+  Arxiv abs/2405.14333, 2024.\
+  [[paper]](https://arxiv.org/abs/2405.14333)
+
++ DeepSeek-AI \
+  **DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model**\
+  Arxiv abs/2405.04434, 2024.\
+  [[paper]](https://arxiv.org/abs/2405.04434)
+
 + **Zhihong Shao**, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Mingchuan Zhang, Y.K. Li, Y. Wu, Daya Guo \
   **DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models**\
   Arxiv abs/2402.03300, 2024.\
@@ -95,11 +116,6 @@ Preprints
   **DeepSeek LLM: Scaling Open-Source Language Models with Longtermism**\
   Arxiv abs/2401.02954, 2024.\
   [[paper]](https://arxiv.org/abs/2401.02954)/[[code]](https://github.com/deepseek-ai/DeepSeek-LLM)
-
-+ Peiyi Wang, Lei Li, **Zhihong Shao**, R.X. Xu, Damai Dai, Yifei Li, Deli Chen, Y.Wu, Zhifang Sui\
-  **Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations**\
-  Arxiv abs/2312.08935, 2023.\
-  [[paper]](https://arxiv.org/abs/2312.08935)
 
 + Fei Huang, Dazhen Wan, **Zhihong Shao**, Pei Ke, Jian Guan, Yilin Niu, Xiaoyan Zhu, and Minlie Huang\
   **CoTK: An Open-Source Toolkit for Fast Development and Fair Evaluation of Text Generation**\
