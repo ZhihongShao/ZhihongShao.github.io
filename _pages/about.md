@@ -97,6 +97,11 @@ Publications
 Preprints
 ======
 
++ **Qihao Zhu**, **Daya Guo**, **Zhihong Shao**, **Dejian Yang**, DeepSeek-AI \
+  **DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence**\
+  Arxiv abs/2406.11931, 2024.\
+  [[paper]](https://arxiv.org/abs/2406.11931)
+
 + Huajian Xin, Daya Guo, **Zhihong Shao**, Zhizhou Ren, Qihao Zhu, Bo Liu, Chong Ruan, Wenda Li, Xiaodan Liang \
   **DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data**\
   Arxiv abs/2405.14333, 2024.\
