@@ -37,6 +37,11 @@ LLM Multi-Step Reasoning & Tool Augmentation
 Publications
 ======
 
++ Huajian Xin, Daya Guo, **Zhihong Shao**, Zhizhou Ren, Qihao Zhu, Bo Liu, Chong Ruan, Wenda Li, Xiaodan Liang \
+  **DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data**\
+  The Annual Conference on Neural Information Processing Systems (NeurIPS), MATH-AI workshop, 2024.\
+  [[paper]](https://arxiv.org/abs/2405.14333)
+
 + Peiyi Wang, Lei Li, **Zhihong Shao**, R.X. Xu, Damai Dai, Yifei Li, Deli Chen, Y.Wu, Zhifang Sui\
   **Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations**\
   The Annual Meeting of the Association for Computational Linguistics (ACL), 2024.\
@@ -97,15 +102,20 @@ Publications
 Preprints
 ======
 
++ DeepSeek-AI \
+  **DeepSeek-V3 Technical Report**\
+  Arxiv abs/2412.19437, 2024.\
+  [[paper]](https://arxiv.org/abs/2412.19437)
+
++ **Huajian Xin**, **Z.Z. Ren**, **Junxiao Song**, **Zhihong Shao**, DeepSeek-AI \
+  **DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search**\
+  Arxiv abs/2408.08152, 2024.\
+  [[paper]](https://arxiv.org/abs/2408.08152)
+
 + **Qihao Zhu**, **Daya Guo**, **Zhihong Shao**, **Dejian Yang**, DeepSeek-AI \
   **DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence**\
   Arxiv abs/2406.11931, 2024.\
   [[paper]](https://arxiv.org/abs/2406.11931)
-
-+ Huajian Xin, Daya Guo, **Zhihong Shao**, Zhizhou Ren, Qihao Zhu, Bo Liu, Chong Ruan, Wenda Li, Xiaodan Liang \
-  **DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data**\
-  Arxiv abs/2405.14333, 2024.\
-  [[paper]](https://arxiv.org/abs/2405.14333)
 
 + DeepSeek-AI \
   **DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model**\
