@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a final-year Ph.D. student in [Conversational AI Group](http://coai.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University.
+I did my Ph.D. at [Conversational AI Group](http://coai.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University.
 I'm fortunate to be advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml).
 <!-- Prior to joining CoAI, I received B.E. in Computer Science and Technology from Beihang University. -->
 
