@@ -21,12 +21,10 @@ My interests are in natural language processing and deep learning. I am particul
 
 Research Highlights
 ======
-LLM Multi-Step Reasoning & Tool Augmentation
-+ **Improve Math Reasoning with Tool Integration:** [ToRA](https://arxiv.org/abs/2309.17452) (ToRA-34B is the first open-source TOOL-AUGMENTED LLM scoring over 50% on the competition-level MATH dataset);
-+ **Improve Math Reasoning via Math Training and RL:** (i) Process-based Reward Model: [Math-Shepherd](https://arxiv.org/abs/2312.08935) for process supervision without human annotations; (ii) Math Training and RL: [DeepSeekMath](https://arxiv.org/abs/2402.03300) (DeepSeekMath 7B is the first open-source LLM scoring over 50% WITHOUT RELYING ON TOOLS on the competition-level MATH dataset);
-+ **Improve Formal Math Reasoning with Synthetic Data:** [DeepSeek-Prover](https://arxiv.org/abs/2405.14333) trained on formal math data synthesized by iterating auto-formalization and proof search, which solves 50% of problems from miniF2F-test.;
-<!-- + **Optimize LLM-Tool Interaction and Adapt Tools for LLMs based on the Interaction Data:** [Iter-RetGen](https://arxiv.org/abs/2305.15294) with generation-augmented retrieval and generation-augmented retrieval adaptation; -->
-+ **Inference-Time Optimization:** (i) Prompt Optimization: [Synthetic Prompting](https://arxiv.org/abs/2302.00618) for automatically synthesizing high-quality CoT demonstrations; (ii) Self-Correction based on Feedback from Tools: [Critic](https://arxiv.org/abs/2305.11738) which shows that current LLMs struggle with intrinsic self-correction and propose tool-aided correction for more stable improvements.
+LLM Reasoning & Tool Augmentation
++ **Informal Math Pre-Training and (large-scale) RL:** [DeepSeekMath](https://arxiv.org/abs/2402.03300) project demonstrates an effective data engineering pipeline for math pre-training, and lays the GRPO-based RL foundation for post-training DeepSeek models. The [DeepSeek-R1](https://arxiv.org/abs/2501.12948) project further leverages large-scale RL to create a strong reasoning model that approaches OpenAI's o1 performance in many reasoning tasks;
++ **Formal Math Data Synthesis and Proof Search:** The DeepSeek-Prover project improves formal math reasoning (i.e., to generate math proofs that can be automatically verified) with large-scale expert iteration ([DeepSeek-Prover](https://arxiv.org/abs/2405.14333)), RL from proof assistant's feedback ([DeepSeek-Prover-V1.5](https://arxiv.org/abs/2408.08152)), and tree search ([DeepSeek-Prover-V1.5](https://arxiv.org/abs/2408.08152));
++ **Reasoning with Tool Integration:** The [ToRA](https://arxiv.org/abs/2309.17452) project augments chain-of-thought reasoning with Python code for strong math performance. The [Critic](https://arxiv.org/abs/2305.11738) project experiments on more general reasoning tasks to study self-correction based on feedback from tools.
 
 <!-- Education
 ======
