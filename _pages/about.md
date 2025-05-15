@@ -23,7 +23,7 @@ Research Highlights
 ======
 LLM Reasoning & Tool Augmentation
 + **Informal Math Pre-Training and (large-scale) RL:** [DeepSeekMath](https://arxiv.org/abs/2402.03300) project demonstrates an effective data engineering pipeline for math pre-training, and lays the GRPO-based RL foundation for post-training DeepSeek models. The [DeepSeek-R1](https://arxiv.org/abs/2501.12948) project further leverages large-scale RL to create a strong reasoning model that approaches OpenAI's o1 performance in many reasoning tasks;
-+ **Formal Math Data Synthesis and Proof Search:** The DeepSeek-Prover project improves formal math reasoning (i.e., to generate math proofs that can be automatically verified) with large-scale expert iteration ([DeepSeek-Prover](https://arxiv.org/abs/2405.14333)), RL from proof assistant's feedback ([DeepSeek-Prover-V1.5](https://arxiv.org/abs/2408.08152)), and tree search ([DeepSeek-Prover-V1.5](https://arxiv.org/abs/2408.08152));
++ **Formal Math Data Synthesis and Proof Search:** The DeepSeek-Prover project improves formal math reasoning (i.e., to generate math proofs that can be automatically verified) with large-scale expert iteration ([DeepSeek-Prover](https://arxiv.org/abs/2405.14333)), RL from proof assistant's feedback ([DeepSeek-Prover-V1.5](https://arxiv.org/abs/2408.08152)), tree search ([DeepSeek-Prover-V1.5](https://arxiv.org/abs/2408.08152)), and by bridging informal and formal reasoning with large-scale RL ([DeepSeek-Prover-V2](https://arxiv.org/abs/2504.21801));
 + **Reasoning with Tool Integration:** The [ToRA](https://arxiv.org/abs/2309.17452) project augments chain-of-thought reasoning with Python code for strong math performance. The [Critic](https://arxiv.org/abs/2305.11738) project experiments on more general reasoning tasks to study self-correction based on feedback from tools.
 
 <!-- Education
@@ -104,6 +104,11 @@ Publications
 
 Preprints
 ======
+
++ **Z.Z. Ren**, **Zhihong Shao**, **Junxiao Song**, DeepSeek-AI \
+  **DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition**\
+  Arxiv abs/2504.21801, 2025.\
+  [[paper]](https://arxiv.org/abs/2504.21801)
 
 + DeepSeek-AI \
   **DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning**\
