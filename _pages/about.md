@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I did my Ph.D. at the [Conversational AI Group](http://coai.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University.
-I'm fortunate to be advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml).
+<!-- I did my Ph.D. at the [Conversational AI Group](http://coai.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University.
+I'm fortunate to be advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml). -->
 <!-- Prior to joining CoAI, I received B.E. in Computer Science and Technology from Beihang University. -->
 
-My interests are in natural language processing and deep learning. I am particularly interested in how we can build a robust and scalable AI system that can leverage diverse skills (e.g., tool use and reasoning) to aggregate possibly-heterogeneous information and answer natural language questions precisely regardless of their complexity.
+I am a Research Scientist at DeepSeek working on LLM reasoning.
+I'm interested in building self-improving systems that can accomplish increasingly complex tasks by leveraging a variety of skills, such as tool use and reasoning.
+I was named one of MIT Tech Review's [35 Innovators Under 35](https://tr35.mittrchina.com/annual-winner?title=2024).
+
+I received a PhD in computer science from Tsinghua University, advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml).
 
 <!-- My recent work has focused on
 + Knowledge-grounded reasoning ([Iter-RetGen](https://arxiv.org/abs/2305.15294) & [RECTIFY](https://arxiv.org/abs/2110.08544))
@@ -29,7 +33,7 @@ LLM Reasoning & Tool Augmentation
 <!-- Education
 ======
 
-+ 2019.9 - Present: Ph.D. Student, Department of Computer Science and Technology, Tsinghua University
++ 2019.9 - 2024.7: Ph.D. Student, Department of Computer Science and Technology, Tsinghua University
 + 2015.9 - 2019.6: B.E., Department of Computer Science and Technology, Beihang University -->
 
 Publications
