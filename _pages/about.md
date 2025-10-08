@@ -39,6 +39,11 @@ LLM Reasoning & Tool Augmentation
 Publications
 ======
 
++ DeepSeek-AI \
+  **DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning**\
+  Nature, vol. 645, pp. 633-638, 2025.\
+  [[paper]](https://www.nature.com/articles/s41586-025-09422-z)
+
 + **Huajian Xin**, **Z.Z. Ren**, **Junxiao Song**, **Zhihong Shao**, DeepSeek-AI \
   **DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search**\
   International Conference on Learning Representations (ICLR), 2025.\
@@ -115,11 +120,6 @@ Preprints
   [[paper]](https://arxiv.org/abs/2504.21801)
 
 + DeepSeek-AI \
-  **DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning**\
-  Arxiv abs/2501.12948, 2025.\
-  [[paper]](https://arxiv.org/abs/2501.12948)
-
-+ DeepSeek-AI \
   **DeepSeek-V3 Technical Report**\
   Arxiv abs/2412.19437, 2024.\
   [[paper]](https://arxiv.org/abs/2412.19437)
@@ -163,6 +163,7 @@ Selected Honors and Awards
 Services
 ======
 
+Area Chair: NeurIPS
 Reviewer/Program Committee: ACL, EMNLP, NLPCC, ARR
 
 Teaching
