@@ -163,8 +163,8 @@ Selected Honors and Awards
 Services
 ======
 
-Area Chair: NeurIPS
-Reviewer/Program Committee: ACL, EMNLP, NLPCC, ARR
++ Area Chair: NeurIPS
++ Reviewer/Program Committee: ACL, EMNLP, NLPCC, ARR
 
 Teaching
 ======
